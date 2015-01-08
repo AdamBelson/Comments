@@ -17,4 +17,4 @@ app.use(bodyParser.json());
 
 require('./comments_routes')(app);	
 
-app.listen(80);
+app.listen(8088);
